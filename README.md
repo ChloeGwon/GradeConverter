@@ -1,4 +1,4 @@
-# ## Description ##
+## Description ##
 This is a GUI application that calculates the points you received to the percentage of the assessment and shows the current grade. It integrates the percentage of total grade, total points, and the points you received. The percentage is deducted as the amount of your points and calculate the grade you are currently in.
 
 ## How to Run the Project ##
@@ -10,8 +10,8 @@ This is a GUI application that calculates the points you received to the percent
 
 ## Features ##
 * It gives errors
-    * when percentage of total grade is greater than 100
-    * when the points you received is greater than total points
+    * when percentage of total grade is greater than 100,
+    * when the points you received is greater than total points.
 * Final grade is deducted when calculate button is clicked.
 * Even if the sum of the percentage of total grade is lower than 100, it still runs in case you use this during the semester.
 * It should be entered numeric values and in order top to bottom.
