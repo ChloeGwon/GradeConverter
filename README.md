@@ -1,5 +1,7 @@
 ## Description ##
-This is a GUI application that calculates the points you received to the percentage of the assessment and shows the current grade. It integrates the percentage of total grade, total points, and the points you received. The percentage is deducted as the amount of your points and calculate the grade you are currently in.
+* This is a GUI application that calculates the points you received to the percentage of the assessment and shows the current grade. 
+* It integrates the percentage of total grade, total points, and the points you received. 
+* The percentage is deducted as the amount of your points and calculate the grade you are currently in.
 
 ## How to Run the Project ##
 * Download Visual Studio Code.
