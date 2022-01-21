@@ -4,11 +4,11 @@
 * The percentage is deducted as the amount of your points and calculate the grade you are currently in.
 
 ## How to Run the Project ##
-* Download Visual Studio Code.
-* In Visual Studio Code, click on Extensions and download Debugger for Java.
-* Click on View, Command Palette, search Git: Clone, and paste https://github.com/ChloeGwon96/GradeConverter
-* Under src folder, click on GUIapp.java to open.
-* Click on Run, and Run Without Debugging.
+* Requirement: Java in the system.
+* Click on code, download ZIP.
+* On a terminal, move to the src directory.
+* Enter 'javac ./*.java' to compile.
+* Enter 'java GUIapp' to run.
 
 ## Features ##
 * It gives errors
